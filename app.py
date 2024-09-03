@@ -19,7 +19,7 @@ custom_text2 = f"""
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <p style="font-size:12px; color:grey;">
     <i class="fas fa-newspaper" style="margin-right:4px;"></i>
-    by kncpem
+    by ksankit4
 </p>
 """
 
